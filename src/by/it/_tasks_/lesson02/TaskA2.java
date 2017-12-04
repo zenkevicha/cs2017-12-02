@@ -1,4 +1,4 @@
-package by.it._tasks_.lesson2;
+package by.it._tasks_.lesson02;
 
 /*
 напишите тело main программы которая выводит на экран 5 строк

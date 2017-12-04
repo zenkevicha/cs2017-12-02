@@ -1,4 +1,4 @@
-package by.it._tasks_.lesson2;
+package by.it._tasks_.lesson02;
 
 /*
 Выводим квадрат числа
